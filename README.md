@@ -5,4 +5,4 @@
 
 Here is the generic link to a non-tokenized version of the browser application:
 (it won't read your game data from this link)
-https://tyler-powell.shinyapps.io/dst-crockpot
+https://tyler-powell.shinyapps.io/DST-Crockpot-Companion
