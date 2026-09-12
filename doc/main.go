@@ -23,7 +23,7 @@ import (
 //go:embed icon.ico
 var iconData []byte
 
-const shinyAppURL = "https://tyler-powell.shinyapps.io/dst-crockpot/"
+const shinyAppURL = "https://tyler-powell.shinyapps.io/DST-Crockpot-Companion/"
 const dstProcessName = "dontstarve_steam_x64.exe" // confirm exact name via Task Manager
 
 var myToken string
